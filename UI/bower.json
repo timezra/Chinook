@@ -1,0 +1,33 @@
+{
+  "name": "ChinookUI",
+  "version": "0.0.1",
+  "description": "Chinook UI description",
+  "main": "Scripts/app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "ASP.NET MVC",
+    "angularjs"
+  ],
+  "authors": [
+    "timezra"
+  ],
+  "license": "MIT",
+  "homepage": "http://timezra.github.com/Chinook",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.0",
+    "angular-bootstrap": "~0.11.2",
+    "bootstrap-less": "~3.2.0",
+    "angular-ui-router": "~0.2.11"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.3.0"
+  }
+}
